@@ -1,0 +1,10 @@
+C:\Users\anıl\Desktop\takılıyorum kafama göre\UçakBiletUygulaması\UçakBiletUygulaması\bin\Debug\UçakBiletUygulaması.exe.config
+C:\Users\anıl\Desktop\takılıyorum kafama göre\UçakBiletUygulaması\UçakBiletUygulaması\bin\Debug\UçakBiletUygulaması.exe
+C:\Users\anıl\Desktop\takılıyorum kafama göre\UçakBiletUygulaması\UçakBiletUygulaması\bin\Debug\UçakBiletUygulaması.pdb
+C:\Users\anıl\Desktop\takılıyorum kafama göre\UçakBiletUygulaması\UçakBiletUygulaması\obj\Debug\UçakBiletUygulaması.Form1.resources
+C:\Users\anıl\Desktop\takılıyorum kafama göre\UçakBiletUygulaması\UçakBiletUygulaması\obj\Debug\UçakBiletUygulaması.Properties.Resources.resources
+C:\Users\anıl\Desktop\takılıyorum kafama göre\UçakBiletUygulaması\UçakBiletUygulaması\obj\Debug\UçakBiletUygulaması.csproj.GenerateResource.cache
+C:\Users\anıl\Desktop\takılıyorum kafama göre\UçakBiletUygulaması\UçakBiletUygulaması\obj\Debug\UçakBiletUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\anıl\Desktop\takılıyorum kafama göre\UçakBiletUygulaması\UçakBiletUygulaması\obj\Debug\UçakBiletUygulaması.exe
+C:\Users\anıl\Desktop\takılıyorum kafama göre\UçakBiletUygulaması\UçakBiletUygulaması\obj\Debug\UçakBiletUygulaması.pdb
+C:\Users\anıl\Desktop\takılıyorum kafama göre\UçakBiletUygulaması\UçakBiletUygulaması\obj\Debug\UçakBiletUygulaması.csproj.AssemblyReference.cache

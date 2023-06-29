@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UçakBiletUygulaması", "UçakBiletUygulaması\UçakBiletUygulaması.csproj", "{CFAB24B3-482F-4A38-BADF-1909CE08B659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFAB24B3-482F-4A38-BADF-1909CE08B659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAB24B3-482F-4A38-BADF-1909CE08B659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAB24B3-482F-4A38-BADF-1909CE08B659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAB24B3-482F-4A38-BADF-1909CE08B659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C1913AC-C8E9-4731-971C-27FCE49C77EB}
+	EndGlobalSection
+EndGlobal
